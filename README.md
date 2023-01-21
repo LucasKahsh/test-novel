@@ -32,7 +32,10 @@
 $ npm install
 ```
 
-## Create a .env and config
+## Create a .env and config, after run migrations.
+```bash
+$ npm run typeorm:run-migrations
+```
 
 ## Running the app
 
